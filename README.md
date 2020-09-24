@@ -1,4 +1,4 @@
-bienvenidos A  MI MOD MAS COMPLETO ESTE VA A SER UN MOD DE ANIMALES DE ZOOLOGICO DINOSAURIOS Y MUCHO MAS PARA MINECRAFT 1.12.2     QUIERES PUEDES SER PARTE DEL MOD SI  SABES PROGRAMACION
-
-
-
+# 1.15-Tut-Mod
+This is the repository for my 1.15 Forge modding tutorial series.
+## License
+1.15-Tut-Mod is licensed under MIT. You can see details at [LICENSE](https://github.com/DaRealTurtyWurty/1.15-Tut-Mod/blob/master/LICENSE).
